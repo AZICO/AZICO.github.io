@@ -1,14 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: PORTFOLIO
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Next you will see my projects and publications
 
 # Your name to show in the footer
-author: Some Person
-
+author: AZAMAT JALILOV
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -16,7 +15,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://AZICO.github.io"
 
 # --- Logo --- #
 
@@ -38,10 +37,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "azjalilov@gmail.com"
+  #facebook: deanattali
+  github: AZICO
+  #twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -80,8 +79,8 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#6464b8"
+navbar-text-col: "#86c3b8"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
